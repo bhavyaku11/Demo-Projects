@@ -1,0 +1,1742 @@
+[
+  {
+    "post_id": "med_001",
+    "content": "Those parasites should be driven out of our town for good.",
+    "author_id": "user_401",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 87,
+      "follower_count": 36
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_001",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 7,
+        "reports": 28
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_002",
+    "content": "I don't care what anyone says, people from that religion are animals.",
+    "author_id": "user_402",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 104,
+      "follower_count": 47
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 11,
+        "reports": 31
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_003",
+    "content": "Send every one of those immigrants back, they poison everything they touch.",
+    "author_id": "user_403",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 121,
+      "follower_count": 58
+    },
+    "context": {
+      "community": "news",
+      "thread_id": "thread_med_003",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 15,
+        "reports": 33
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_004",
+    "content": "Women are too stupid to lead teams, that's just biology.",
+    "author_id": "user_404",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 138,
+      "follower_count": 69
+    },
+    "context": {
+      "community": "work",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 19,
+        "reports": 17
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_005",
+    "content": "Disabled people are a drain and should stop expecting the rest of us to carry them.",
+    "author_id": "user_405",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 155,
+      "follower_count": 80
+    },
+    "context": {
+      "community": "general",
+      "thread_id": "thread_med_005",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 23,
+        "reports": 26
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_006",
+    "content": "Those gays are grooming kids, keep them away from schools.",
+    "author_id": "user_406",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 172,
+      "follower_count": 91
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "sexual_orientation",
+      "engagement": {
+        "likes": 27,
+        "reports": 36
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_007",
+    "content": "The only good refugee is one who never arrives here.",
+    "author_id": "user_407",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 189,
+      "follower_count": 102
+    },
+    "context": {
+      "community": "news",
+      "thread_id": "thread_med_007",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 31,
+        "reports": 22
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_008",
+    "content": "Old people need to shut up and die already so progress can happen.",
+    "author_id": "user_408",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 206,
+      "follower_count": 113
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "age",
+      "engagement": {
+        "likes": 35,
+        "reports": 14
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_009",
+    "content": "Keep the neighborhood pure. You know which crowd I'm talking about.",
+    "author_id": "user_409",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 223,
+      "follower_count": 124
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_med_009",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 39,
+        "reports": 19
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_010",
+    "content": "They're not human, they're vermin, and treating them nicely is weakness.",
+    "author_id": "user_410",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 240,
+      "follower_count": 135
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 43,
+        "reports": 27
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_011",
+    "content": "Time to clean house before the 'globalists' replace real citizens.",
+    "author_id": "user_411",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 257,
+      "follower_count": 146
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_011",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 47,
+        "reports": 24
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_012",
+    "content": "You can always tell by the triple parentheses who runs the media.",
+    "author_id": "user_412",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 274,
+      "follower_count": 157
+    },
+    "context": {
+      "community": "media",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 51,
+        "reports": 18
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_013",
+    "content": "That streamer is a freak and should disappear from the internet forever.",
+    "author_id": "user_413",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 291,
+      "follower_count": 168
+    },
+    "context": {
+      "community": "gaming",
+      "thread_id": "thread_med_013",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "none",
+      "engagement": {
+        "likes": 3,
+        "reports": 21
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "harassment",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_014",
+    "content": "Go kill yourself, nobody wants to hear another word from you.",
+    "author_id": "user_414",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 308,
+      "follower_count": 179
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "none",
+      "engagement": {
+        "likes": 7,
+        "reports": 25
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "harassment",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_015",
+    "content": "People from that side of town always bring crime; funny how it works every time.",
+    "author_id": "user_415",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 325,
+      "follower_count": 190
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_med_015",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 11,
+        "reports": 16
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_016",
+    "content": "The bankers with 'dual loyalty' are steering policy again, shocker.",
+    "author_id": "user_416",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 342,
+      "follower_count": 201
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 15,
+        "reports": 14
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_017",
+    "content": "Maybe stop importing people who don't share our blood if you want safer streets.",
+    "author_id": "user_417",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 359,
+      "follower_count": 212
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_017",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 19,
+        "reports": 17
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_018",
+    "content": "I won't say who, but certain people always smell like trouble in every office.",
+    "author_id": "user_418",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 376,
+      "follower_count": 223
+    },
+    "context": {
+      "community": "work",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 23,
+        "reports": 13
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_019",
+    "content": "That comedian keeps using lesbian as a punchline and it's getting old.",
+    "author_id": "user_419",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 393,
+      "follower_count": 234
+    },
+    "context": {
+      "community": "entertainment",
+      "thread_id": "thread_med_019",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "sexual_orientation",
+      "engagement": {
+        "likes": 27,
+        "reports": 9
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "harassment",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_020",
+    "content": "You people ruin every game server you join, learn to act normal.",
+    "author_id": "user_420",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 410,
+      "follower_count": 245
+    },
+    "context": {
+      "community": "gaming",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 31,
+        "reports": 11
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "harassment",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_021",
+    "content": "Imagine needing ramps everywhere. The rest of us manage just fine.",
+    "author_id": "user_421",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 427,
+      "follower_count": 256
+    },
+    "context": {
+      "community": "general",
+      "thread_id": "thread_med_021",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 35,
+        "reports": 12
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_022",
+    "content": "I get why folks are suspicious when that community moves in; patterns are patterns.",
+    "author_id": "user_422",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 444,
+      "follower_count": 267
+    },
+    "context": {
+      "community": "housing",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 39,
+        "reports": 15
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_023",
+    "content": "Satire account: wow yes, let's totally blame every problem on immigrants again, genius plan.",
+    "author_id": "user_423",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 461,
+      "follower_count": 278
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_023",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 43,
+        "reports": 6
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_024",
+    "content": "As a Muslim woman, I'm tired of being treated like a security threat at airports.",
+    "author_id": "user_424",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 478,
+      "follower_count": 289
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "religious"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 47,
+        "reports": 7
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_025",
+    "content": "As a queer kid I heard slurs every day in school, and I'm still unpacking that.",
+    "author_id": "user_425",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 495,
+      "follower_count": 300
+    },
+    "context": {
+      "community": "general",
+      "thread_id": "thread_med_025",
+      "language": "en",
+      "speaker_identity": "sexual_orientation"
+    },
+    "metadata": {
+      "contains_slurs": true,
+      "targeted_group": "sexual_orientation",
+      "engagement": {
+        "likes": 51,
+        "reports": 8
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_026",
+    "content": "We need tighter immigration policy, but that doesn't mean immigrants are the enemy.",
+    "author_id": "user_426",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 512,
+      "follower_count": 311
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 3,
+        "reports": 4
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_027",
+    "content": "That policy proposal is ridiculous and uninformed, but let's argue the facts.",
+    "author_id": "user_427",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 529,
+      "follower_count": 322
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_027",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "none",
+      "engagement": {
+        "likes": 7,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_028",
+    "content": "My Black family reclaims that word privately, but strangers using it is different.",
+    "author_id": "user_428",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 546,
+      "follower_count": 333
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "ethnic"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 11,
+        "reports": 10
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_029",
+    "content": "The joke bombed because it targeted disabled people instead of punching up.",
+    "author_id": "user_429",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 563,
+      "follower_count": 344
+    },
+    "context": {
+      "community": "entertainment",
+      "thread_id": "thread_med_029",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 15,
+        "reports": 5
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_030",
+    "content": "I'm Jewish and the triple-parentheses meme absolutely reads as a threat to me.",
+    "author_id": "user_430",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 580,
+      "follower_count": 355
+    },
+    "context": {
+      "community": "media",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "religious"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 19,
+        "reports": 9
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_031",
+    "content": "Calling a minister a liar is fair game in politics; attacking believers is not.",
+    "author_id": "user_431",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 597,
+      "follower_count": 366
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_031",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 23,
+        "reports": 3
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_032",
+    "content": "As a disabled gamer, I'm asking studios to stop making me beg for captions.",
+    "author_id": "user_432",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 614,
+      "follower_count": 377
+    },
+    "context": {
+      "community": "gaming",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "disability"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 27,
+        "reports": 6
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_033",
+    "content": "The phrase 'real Americans' keeps getting used as a wink, and we should call that out.",
+    "author_id": "user_433",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 631,
+      "follower_count": 388
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_033",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 31,
+        "reports": 5
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_034",
+    "content": "My grandmother still uses outdated words for gay people and we're trying to unlearn that at home.",
+    "author_id": "user_434",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 648,
+      "follower_count": 399
+    },
+    "context": {
+      "community": "family",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "sexual_orientation",
+      "engagement": {
+        "likes": 35,
+        "reports": 4
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_035",
+    "content": "This candidate is a fraud and a coward, but that's about the campaign, not their ethnicity.",
+    "author_id": "user_435",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 665,
+      "follower_count": 410
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_035",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 39,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_036",
+    "content": "Satire headline: Local man blames cosmic rays instead of his own prejudice, more at 11.",
+    "author_id": "user_436",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 682,
+      "follower_count": 421
+    },
+    "context": {
+      "community": "media",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "none",
+      "engagement": {
+        "likes": 43,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_037",
+    "content": "People keep calling us savages online because we're Roma. I'm posting screenshots for visibility.",
+    "author_id": "user_437",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 699,
+      "follower_count": 432
+    },
+    "context": {
+      "community": "general",
+      "thread_id": "thread_med_037",
+      "language": "en",
+      "speaker_identity": "ethnic"
+    },
+    "metadata": {
+      "contains_slurs": true,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 47,
+        "reports": 13
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_038",
+    "content": "I hate that my son got harassed for wearing a turban on the train.",
+    "author_id": "user_438",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 716,
+      "follower_count": 443
+    },
+    "context": {
+      "community": "family",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "religious"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 51,
+        "reports": 6
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_039",
+    "content": "Those pronoun people are exhausting; every meeting turns into a lecture.",
+    "author_id": "user_439",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 733,
+      "follower_count": 454
+    },
+    "context": {
+      "community": "work",
+      "thread_id": "thread_med_039",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 3,
+        "reports": 10
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_040",
+    "content": "Certain neighborhoods stay safe because they still have standards, if you know what I mean.",
+    "author_id": "user_440",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 750,
+      "follower_count": 465
+    },
+    "context": {
+      "community": "local",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 7,
+        "reports": 18
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_041",
+    "content": "Maybe comedians should stop pretending punching down is brave social commentary.",
+    "author_id": "user_441",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 767,
+      "follower_count": 476
+    },
+    "context": {
+      "community": "entertainment",
+      "thread_id": "thread_med_041",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "none",
+      "engagement": {
+        "likes": 11,
+        "reports": 3
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_042",
+    "content": "I'm trans and tired of strangers debating whether I deserve healthcare.",
+    "author_id": "user_442",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 784,
+      "follower_count": 487
+    },
+    "context": {
+      "community": "health",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "gender"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 15,
+        "reports": 9
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_043",
+    "content": "Honestly these boomers can't use email and still want to run the office.",
+    "author_id": "user_443",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 801,
+      "follower_count": 498
+    },
+    "context": {
+      "community": "work",
+      "thread_id": "thread_med_043",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "age",
+      "engagement": {
+        "likes": 19,
+        "reports": 8
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "harassment",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_044",
+    "content": "Those people breed dependency everywhere they go. You can't fix that culture.",
+    "author_id": "user_444",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 818,
+      "follower_count": 509
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 23,
+        "reports": 26
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_045",
+    "content": "As a Sikh man, hearing 'go back where you came from' still follows me into adulthood.",
+    "author_id": "user_445",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 835,
+      "follower_count": 520
+    },
+    "context": {
+      "community": "general",
+      "thread_id": "thread_med_045",
+      "language": "en",
+      "speaker_identity": "religious"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 27,
+        "reports": 8
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_046",
+    "content": "Moderator note: quoted slur removed from screenshot, but the post documents the abuse campaign.",
+    "author_id": "user_446",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 852,
+      "follower_count": 531
+    },
+    "context": {
+      "community": "meta",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": true,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 31,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_047",
+    "content": "The way she speaks is why no one respects women in leadership.",
+    "author_id": "user_447",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 869,
+      "follower_count": 542
+    },
+    "context": {
+      "community": "work",
+      "thread_id": "thread_med_047",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 35,
+        "reports": 12
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_048",
+    "content": "No offense, but hiring autistic people for front desk roles is asking for customer complaints.",
+    "author_id": "user_448",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 886,
+      "follower_count": 553
+    },
+    "context": {
+      "community": "work",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 39,
+        "reports": 21
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_049",
+    "content": "We can disagree on asylum law without calling refugees vermin.",
+    "author_id": "user_449",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 903,
+      "follower_count": 564
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_049",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "nationality",
+      "engagement": {
+        "likes": 43,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_050",
+    "content": "'Great replacement' jokes stop being jokes when the crowd cheers the implication.",
+    "author_id": "user_450",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 920,
+      "follower_count": 575
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 47,
+        "reports": 4
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_051",
+    "content": "That creator milks victimhood for clicks; stop platforming her already.",
+    "author_id": "user_451",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 937,
+      "follower_count": 586
+    },
+    "context": {
+      "community": "creator",
+      "thread_id": "thread_med_051",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "none",
+      "engagement": {
+        "likes": 51,
+        "reports": 7
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "harassment",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_052",
+    "content": "I grew up hearing slurs for my disability and I'm done staying quiet about it.",
+    "author_id": "user_452",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 954,
+      "follower_count": 597
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "disability"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 3,
+        "reports": 8
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_053",
+    "content": "The cabal wants obedient women and dirty foreigners to replace normal families.",
+    "author_id": "user_453",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 971,
+      "follower_count": 608
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_053",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 7,
+        "reports": 29
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_054",
+    "content": "Calling all men trash isn't progressive, it's lazy and hostile.",
+    "author_id": "user_454",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 988,
+      "follower_count": 619
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 11,
+        "reports": 5
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_055",
+    "content": "Those temple people keep taking over every block and nobody says anything.",
+    "author_id": "user_455",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 1005,
+      "follower_count": 630
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_med_055",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 15,
+        "reports": 14
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_056",
+    "content": "As a lesbian comic, I joke about my own dating disasters on stage all the time.",
+    "author_id": "user_456",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 1022,
+      "follower_count": 641
+    },
+    "context": {
+      "community": "entertainment",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "sexual_orientation"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "sexual_orientation",
+      "engagement": {
+        "likes": 19,
+        "reports": 6
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_057",
+    "content": "When someone says 'urban crowd' in this debate, everyone knows it's a dog whistle.",
+    "author_id": "user_457",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 1039,
+      "follower_count": 652
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_057",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "ethnic",
+      "engagement": {
+        "likes": 23,
+        "reports": 3
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_058",
+    "content": "That disabled influencer is fake inspiration and honestly creepy to look at.",
+    "author_id": "user_458",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 1056,
+      "follower_count": 663
+    },
+    "context": {
+      "community": "creator",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "disability",
+      "engagement": {
+        "likes": 27,
+        "reports": 19
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_059",
+    "content": "Stop acting like every criticism of religion is hate speech; doctrine can be debated.",
+    "author_id": "user_459",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 1073,
+      "follower_count": 674
+    },
+    "context": {
+      "community": "politics",
+      "thread_id": "thread_med_059",
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "religious",
+      "engagement": {
+        "likes": 31,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "medium"
+    }
+  },
+  {
+    "post_id": "med_060",
+    "content": "Maybe if girls spent less time whining about sexism they'd earn respect.",
+    "author_id": "user_460",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 1090,
+      "follower_count": 685
+    },
+    "context": {
+      "community": "work",
+      "thread_id": null,
+      "language": "en",
+      "speaker_identity": "majority"
+    },
+    "metadata": {
+      "contains_slurs": false,
+      "targeted_group": "gender",
+      "engagement": {
+        "likes": 35,
+        "reports": 23
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "hate_speech",
+      "difficulty": "medium"
+    }
+  }
+]

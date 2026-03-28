@@ -1,0 +1,13 @@
+name: scalar-grid-env
+version: 0.1.0
+description: >
+  Grid-based reinforcement learning environment for OpenEnv with deterministic reset,
+  typed actions, obstacle avoidance, reward collection, and score grading.
+package: scalar_grid_env
+entrypoint: server.app:app
+command: uv run server --host 0.0.0.0 --port 8000
+interfaces:
+  - reset
+  - step
+  - state
+

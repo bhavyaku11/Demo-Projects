@@ -1,0 +1,68 @@
+name: contentguard
+version: "1.0.0"
+description: "Social media content moderation environment for training AI agents on real-world policy enforcement tasks"
+author: "ContentGuard Team"
+license: MIT
+tags:
+  - content-moderation
+  - nlp
+  - social-media
+  - policy
+  - meta
+  - real-world
+
+environment:
+  class: ContentGuardEnv
+  module: app.environment
+
+observation_space:
+  type: object
+  properties:
+    post_id: {type: string}
+    content: {type: string}
+    author_id: {type: string}
+    author_history: {type: object}
+    context: {type: object}
+    metadata: {type: object}
+    task_id: {type: string}
+    step_number: {type: integer}
+    max_steps: {type: integer}
+
+action_space:
+  type: object
+  properties:
+    post_id: {type: string}
+    decision: {type: string, enum: [remove, warn, allow, escalate]}
+    violation_type: {type: string, enum: [spam, hate_speech, misinformation, harassment, none]}
+    confidence: {type: number, minimum: 0.0, maximum: 1.0}
+    reasoning: {type: string}
+
+reward_space:
+  type: number
+  minimum: -1.0
+  maximum: 1.0
+
+tasks:
+  - id: spam_detection
+    name: Spam Detection
+    difficulty: easy
+    max_steps: 20
+    description: "Identify spam posts and decide: remove, warn, or allow"
+  - id: hate_speech
+    name: Hate Speech Classification
+    difficulty: medium
+    max_steps: 25
+    description: "Classify hate speech type and apply appropriate policy action"
+  - id: nuanced_moderation
+    name: Nuanced Context-Based Moderation
+    difficulty: hard
+    max_steps: 15
+    description: "Context-dependent moderation requiring deep policy reasoning"
+
+endpoints:
+  reset: POST /reset
+  step: POST /step
+  state: GET /state
+  tasks: GET /tasks
+  grader: GET /grader
+  baseline: POST /baseline

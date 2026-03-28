@@ -1,0 +1,9 @@
+import { Router } from "express";
+
+import { gameRouter } from "./game.routes.js";
+import { healthRouter } from "./health.routes.js";
+
+export const apiRouter = Router();
+
+apiRouter.use("/health", healthRouter);
+apiRouter.use("/game", gameRouter);

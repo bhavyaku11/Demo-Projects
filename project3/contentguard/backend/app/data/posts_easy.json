@@ -1,0 +1,1682 @@
+[
+  {
+    "post_id": "easy_001",
+    "content": "Buy cheap Rolex watches! Click here now!!! Limited offer 99% off!!",
+    "author_id": "user_101",
+    "author_history": {
+      "prior_violations": 3,
+      "account_age_days": 11,
+      "follower_count": 3
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 8,
+      "contains_links": true,
+      "engagement": {
+        "likes": 1,
+        "reports": 12
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_002",
+    "content": "Your account is suspended. Verify banking details at secure-payments-alert.co immediately.",
+    "author_id": "user_102",
+    "author_history": {
+      "prior_violations": 4,
+      "account_age_days": 14,
+      "follower_count": 5
+    },
+    "context": {
+      "community": "finance",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 5,
+      "contains_links": true,
+      "engagement": {
+        "likes": 2,
+        "reports": 18
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_003",
+    "content": "DOGE MOON SIGNAL. Join my VIP crypto room before midnight and 30x your stack.",
+    "author_id": "user_103",
+    "author_history": {
+      "prior_violations": 5,
+      "account_age_days": 17,
+      "follower_count": 7
+    },
+    "context": {
+      "community": "crypto",
+      "thread_id": "thread_easy_r_003",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 11,
+      "contains_links": true,
+      "engagement": {
+        "likes": 3,
+        "reports": 25
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_004",
+    "content": "We are sending free iPhone 16 Pros to the first 50 people who fill this form.",
+    "author_id": "user_104",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 20,
+      "follower_count": 9
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 7,
+      "contains_links": true,
+      "engagement": {
+        "likes": 0,
+        "reports": 15
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_005",
+    "content": "Weekly passive income secret. DM me 'hustle' and I will add you to the private funnel.",
+    "author_id": "user_105",
+    "author_history": {
+      "prior_violations": 3,
+      "account_age_days": 23,
+      "follower_count": 11
+    },
+    "context": {
+      "community": "entrepreneurs",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 10,
+      "contains_links": false,
+      "engagement": {
+        "likes": 1,
+        "reports": 9
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_006",
+    "content": "Hot singles in your area waiting. Click this hidden link before it expires tonight.",
+    "author_id": "user_106",
+    "author_history": {
+      "prior_violations": 4,
+      "account_age_days": 26,
+      "follower_count": 13
+    },
+    "context": {
+      "community": "general",
+      "thread_id": "thread_easy_r_006",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 9,
+      "contains_links": true,
+      "engagement": {
+        "likes": 2,
+        "reports": 14
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_007",
+    "content": "BREAKING: government debt erased next month. Download the leaked document here.",
+    "author_id": "user_107",
+    "author_history": {
+      "prior_violations": 5,
+      "account_age_days": 29,
+      "follower_count": 15
+    },
+    "context": {
+      "community": "news",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 6,
+      "contains_links": true,
+      "engagement": {
+        "likes": 3,
+        "reports": 20
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_008",
+    "content": "Same day loan approval guaranteed even with bad credit. No checks. Apply now.",
+    "author_id": "user_108",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 32,
+      "follower_count": 17
+    },
+    "context": {
+      "community": "finance",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 12,
+      "contains_links": true,
+      "engagement": {
+        "likes": 0,
+        "reports": 19
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_009",
+    "content": "Earn $5000 a day posting from home. Comment YES and I will send the starter pack.",
+    "author_id": "user_109",
+    "author_history": {
+      "prior_violations": 3,
+      "account_age_days": 35,
+      "follower_count": 19
+    },
+    "context": {
+      "community": "jobs",
+      "thread_id": "thread_easy_r_009",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 13,
+      "contains_links": false,
+      "engagement": {
+        "likes": 1,
+        "reports": 17
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_010",
+    "content": "Meta support here. Your creator payout is on hold. Re-enter your password to release it.",
+    "author_id": "user_110",
+    "author_history": {
+      "prior_violations": 4,
+      "account_age_days": 38,
+      "follower_count": 21
+    },
+    "context": {
+      "community": "creator",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 4,
+      "contains_links": true,
+      "engagement": {
+        "likes": 2,
+        "reports": 22
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_011",
+    "content": "Join this pump group before 4pm. We are taking $LUNAQ to the sky.",
+    "author_id": "user_111",
+    "author_history": {
+      "prior_violations": 5,
+      "account_age_days": 41,
+      "follower_count": 23
+    },
+    "context": {
+      "community": "crypto",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 14,
+      "contains_links": true,
+      "engagement": {
+        "likes": 3,
+        "reports": 11
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_012",
+    "content": "I cured my diabetes in 48 hours with this one tea. Doctors hate this trick.",
+    "author_id": "user_112",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 44,
+      "follower_count": 25
+    },
+    "context": {
+      "community": "health",
+      "thread_id": "thread_easy_r_012",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 5,
+      "contains_links": true,
+      "engagement": {
+        "likes": 0,
+        "reports": 16
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_013",
+    "content": "FLASH SALE flash SALE flash SALE flash SALE click my bio link now now now",
+    "author_id": "user_113",
+    "author_history": {
+      "prior_violations": 3,
+      "account_age_days": 47,
+      "follower_count": 2
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 15,
+      "contains_links": true,
+      "engagement": {
+        "likes": 1,
+        "reports": 13
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_014",
+    "content": "Claim your tax refund instantly with this secret portal. Works for everyone.",
+    "author_id": "user_114",
+    "author_history": {
+      "prior_violations": 4,
+      "account_age_days": 50,
+      "follower_count": 4
+    },
+    "context": {
+      "community": "finance",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 7,
+      "contains_links": true,
+      "engagement": {
+        "likes": 2,
+        "reports": 18
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_015",
+    "content": "Unlimited Netflix logins for $2. Message me before my stock runs out.",
+    "author_id": "user_115",
+    "author_history": {
+      "prior_violations": 5,
+      "account_age_days": 53,
+      "follower_count": 6
+    },
+    "context": {
+      "community": "entertainment",
+      "thread_id": "thread_easy_r_015",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 8,
+      "contains_links": false,
+      "engagement": {
+        "likes": 3,
+        "reports": 12
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_016",
+    "content": "Need followers fast? Buy 10,000 verified followers tonight only.",
+    "author_id": "user_116",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 56,
+      "follower_count": 8
+    },
+    "context": {
+      "community": "creator",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 16,
+      "contains_links": true,
+      "engagement": {
+        "likes": 0,
+        "reports": 7
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_017",
+    "content": "Exclusive charity giveaway. Send 0.1 ETH to verify wallet and receive 2 ETH back.",
+    "author_id": "user_117",
+    "author_history": {
+      "prior_violations": 3,
+      "account_age_days": 59,
+      "follower_count": 10
+    },
+    "context": {
+      "community": "crypto",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 6,
+      "contains_links": true,
+      "engagement": {
+        "likes": 1,
+        "reports": 27
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_018",
+    "content": "You won the neighborhood raffle! Confirm your SSN so we can release the cash prize.",
+    "author_id": "user_118",
+    "author_history": {
+      "prior_violations": 4,
+      "account_age_days": 62,
+      "follower_count": 12
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_easy_r_018",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 4,
+      "contains_links": false,
+      "engagement": {
+        "likes": 2,
+        "reports": 21
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_019",
+    "content": "Copy paste this exact message into 20 groups to unlock premium signals.",
+    "author_id": "user_119",
+    "author_history": {
+      "prior_violations": 5,
+      "account_age_days": 65,
+      "follower_count": 14
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 20,
+      "contains_links": false,
+      "engagement": {
+        "likes": 3,
+        "reports": 10
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_020",
+    "content": "Click bit.ly/secure-benefits to keep your medical insurance from being canceled today.",
+    "author_id": "user_120",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 68,
+      "follower_count": 16
+    },
+    "context": {
+      "community": "health",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 9,
+      "contains_links": true,
+      "engagement": {
+        "likes": 0,
+        "reports": 23
+      }
+    },
+    "ground_truth": {
+      "decision": "remove",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_021",
+    "content": "Can anyone recommend a good standing desk under $300? I work from home full time.",
+    "author_id": "user_121",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 285,
+      "follower_count": 187
+    },
+    "context": {
+      "community": "general",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 26,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_022",
+    "content": "My local bakery is doing a two-for-one sourdough special this Saturday.",
+    "author_id": "user_122",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 290,
+      "follower_count": 194
+    },
+    "context": {
+      "community": "food",
+      "thread_id": "thread_easy_a_022",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 27,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_023",
+    "content": "Review: I tried the new budget earbuds and the battery life is surprisingly solid.",
+    "author_id": "user_123",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 295,
+      "follower_count": 201
+    },
+    "context": {
+      "community": "tech",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 28,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_024",
+    "content": "Tickets for the school jazz concert are live on the district website.",
+    "author_id": "user_124",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 300,
+      "follower_count": 208
+    },
+    "context": {
+      "community": "community",
+      "thread_id": "thread_easy_a_024",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 29,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_025",
+    "content": "Here is the city council livestream link for tonight's zoning discussion.",
+    "author_id": "user_125",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 305,
+      "follower_count": 215
+    },
+    "context": {
+      "community": "civics",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 30,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_026",
+    "content": "Selling my used road bike locally for $450. Pickup only, happy to answer questions.",
+    "author_id": "user_126",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 310,
+      "follower_count": 222
+    },
+    "context": {
+      "community": "marketplace",
+      "thread_id": "thread_easy_a_026",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 31,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_027",
+    "content": "I wrote up a guide to composting in apartments if anyone in the gardening club wants it.",
+    "author_id": "user_127",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 315,
+      "follower_count": 229
+    },
+    "context": {
+      "community": "gardening",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 32,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_028",
+    "content": "Question for freelancers: how do you price a one-page website refresh?",
+    "author_id": "user_128",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 320,
+      "follower_count": 236
+    },
+    "context": {
+      "community": "jobs",
+      "thread_id": "thread_easy_a_028",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 33,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_029",
+    "content": "Our rescue center has three senior dogs available for adoption this month.",
+    "author_id": "user_129",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 325,
+      "follower_count": 243
+    },
+    "context": {
+      "community": "pets",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 34,
+        "reports": 3
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_030",
+    "content": "The library posted the summer reading schedule and author lineup.",
+    "author_id": "user_130",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 330,
+      "follower_count": 250
+    },
+    "context": {
+      "community": "community",
+      "thread_id": "thread_easy_a_030",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 35,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_031",
+    "content": "Sharing my marathon training spreadsheet in case it helps another beginner runner.",
+    "author_id": "user_131",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 335,
+      "follower_count": 257
+    },
+    "context": {
+      "community": "fitness",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 36,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_032",
+    "content": "Looking for feedback on this espresso machine before I buy it.",
+    "author_id": "user_132",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 340,
+      "follower_count": 264
+    },
+    "context": {
+      "community": "home",
+      "thread_id": "thread_easy_a_032",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 37,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_033",
+    "content": "A storm is moving in this evening. Official weather service alert here: weather.gov",
+    "author_id": "user_133",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 345,
+      "follower_count": 271
+    },
+    "context": {
+      "community": "local",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 38,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_034",
+    "content": "My small shop just restocked handmade notebooks after a month out of stock.",
+    "author_id": "user_134",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 350,
+      "follower_count": 278
+    },
+    "context": {
+      "community": "crafts",
+      "thread_id": "thread_easy_a_034",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 39,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_035",
+    "content": "Anyone else watching the product keynote? Curious what feature people care about most.",
+    "author_id": "user_135",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 355,
+      "follower_count": 285
+    },
+    "context": {
+      "community": "tech",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 40,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_036",
+    "content": "Neighborhood cleanup starts at 9am Sunday. Gloves and trash bags provided.",
+    "author_id": "user_136",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 360,
+      "follower_count": 292
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_easy_a_036",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 41,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_037",
+    "content": "I finally fixed the squeaky ceiling fan. Happy to share what worked.",
+    "author_id": "user_137",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 365,
+      "follower_count": 299
+    },
+    "context": {
+      "community": "home",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 42,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_038",
+    "content": "Posting the agenda for tomorrow's volunteer board meeting.",
+    "author_id": "user_138",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 370,
+      "follower_count": 306
+    },
+    "context": {
+      "community": "community",
+      "thread_id": "thread_easy_a_038",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 43,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_039",
+    "content": "If you're learning Python, this official tutorial helped me more than random blogs.",
+    "author_id": "user_139",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 375,
+      "follower_count": 313
+    },
+    "context": {
+      "community": "education",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": true,
+      "engagement": {
+        "likes": 44,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_040",
+    "content": "We compared five meal-planning apps and ranked them on price and family features.",
+    "author_id": "user_140",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 380,
+      "follower_count": 320
+    },
+    "context": {
+      "community": "lifestyle",
+      "thread_id": "thread_easy_a_040",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 0,
+      "contains_links": false,
+      "engagement": {
+        "likes": 5,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "allow",
+      "violation_type": "none",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_041",
+    "content": "My shop restock is live again. Please don't miss it this time, link in bio.",
+    "author_id": "user_141",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 209,
+      "follower_count": 217
+    },
+    "context": {
+      "community": "creator",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 3,
+      "contains_links": true,
+      "engagement": {
+        "likes": 7,
+        "reports": 4
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_042",
+    "content": "Reminder that I offer resume reviews every week; details are on my profile site.",
+    "author_id": "user_142",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 213,
+      "follower_count": 222
+    },
+    "context": {
+      "community": "jobs",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 8,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_043",
+    "content": "Posting this coupon one last time before the weekend farmers market closes.",
+    "author_id": "user_143",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 217,
+      "follower_count": 227
+    },
+    "context": {
+      "community": "food",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 4,
+      "contains_links": false,
+      "engagement": {
+        "likes": 9,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_044",
+    "content": "New coaching spots open today. I don't want to spam the group but DM me if interested.",
+    "author_id": "user_144",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 221,
+      "follower_count": 232
+    },
+    "context": {
+      "community": "fitness",
+      "thread_id": "thread_easy_w_044",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": false,
+      "engagement": {
+        "likes": 10,
+        "reports": 3
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_045",
+    "content": "We just launched our indie game page. Sharing the trailer again because the last upload broke.",
+    "author_id": "user_145",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 225,
+      "follower_count": 237
+    },
+    "context": {
+      "community": "gaming",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 11,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_046",
+    "content": "Apartment still available. Reposting because the first tenant backed out.",
+    "author_id": "user_146",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 229,
+      "follower_count": 242
+    },
+    "context": {
+      "community": "housing",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 3,
+      "contains_links": false,
+      "engagement": {
+        "likes": 12,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_047",
+    "content": "I know self-promo is limited here, but my newsletter on climate jobs is free today.",
+    "author_id": "user_147",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 233,
+      "follower_count": 247
+    },
+    "context": {
+      "community": "jobs",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 13,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_048",
+    "content": "Crowdfunding update: sharing the campaign link for the third time because we hit the final 24 hours.",
+    "author_id": "user_148",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 237,
+      "follower_count": 252
+    },
+    "context": {
+      "community": "community",
+      "thread_id": "thread_easy_w_048",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 3,
+      "contains_links": true,
+      "engagement": {
+        "likes": 14,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_049",
+    "content": "Our cafe loyalty app gives a free drink on signup. Mentioning it since people keep asking.",
+    "author_id": "user_149",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 241,
+      "follower_count": 257
+    },
+    "context": {
+      "community": "food",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 15,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_050",
+    "content": "Posting my Etsy sale in the craft group once more before Mother's Day.",
+    "author_id": "user_150",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 245,
+      "follower_count": 262
+    },
+    "context": {
+      "community": "crafts",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 3,
+      "contains_links": true,
+      "engagement": {
+        "likes": 16,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_051",
+    "content": "Friend asked me to share this tutoring offer here. Hope that's okay with the mods.",
+    "author_id": "user_151",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 249,
+      "follower_count": 267
+    },
+    "context": {
+      "community": "education",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 1,
+      "contains_links": false,
+      "engagement": {
+        "likes": 17,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_052",
+    "content": "You can still use my referral link for discounted internet service if you're moving this month.",
+    "author_id": "user_152",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 253,
+      "follower_count": 272
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_easy_w_052",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 18,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_053",
+    "content": "Monthly reminder: I host paid writing workshops and there are two seats left.",
+    "author_id": "user_153",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 257,
+      "follower_count": 277
+    },
+    "context": {
+      "community": "writing",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 4,
+      "contains_links": true,
+      "engagement": {
+        "likes": 19,
+        "reports": 3
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_054",
+    "content": "Re-sharing our church fundraiser raffle page for anyone who missed it yesterday.",
+    "author_id": "user_154",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 261,
+      "follower_count": 282
+    },
+    "context": {
+      "community": "community",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 3,
+      "contains_links": true,
+      "engagement": {
+        "likes": 2,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_055",
+    "content": "My startup waitlist just opened. I promise this is the only promo post I'll make today.",
+    "author_id": "user_155",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 265,
+      "follower_count": 287
+    },
+    "context": {
+      "community": "tech",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 3,
+        "reports": 4
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_056",
+    "content": "The pet-sitting calendar is live again and I had a few people ask for the booking link.",
+    "author_id": "user_156",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 269,
+      "follower_count": 292
+    },
+    "context": {
+      "community": "pets",
+      "thread_id": "thread_easy_w_056",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 4,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_057",
+    "content": "Small business owner here. Posting our launch discount code before it expires tonight.",
+    "author_id": "user_157",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 273,
+      "follower_count": 297
+    },
+    "context": {
+      "community": "marketplace",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 3,
+      "contains_links": true,
+      "engagement": {
+        "likes": 5,
+        "reports": 2
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_058",
+    "content": "This is a repost of our nonprofit donation page because the old URL had a typo.",
+    "author_id": "user_158",
+    "author_history": {
+      "prior_violations": 1,
+      "account_age_days": 277,
+      "follower_count": 302
+    },
+    "context": {
+      "community": "community",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": true,
+      "engagement": {
+        "likes": 6,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_059",
+    "content": "I made a referral code for the budgeting app I use if anyone wants one.",
+    "author_id": "user_159",
+    "author_history": {
+      "prior_violations": 2,
+      "account_age_days": 281,
+      "follower_count": 307
+    },
+    "context": {
+      "community": "finance",
+      "thread_id": null,
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 1,
+      "contains_links": true,
+      "engagement": {
+        "likes": 7,
+        "reports": 1
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  },
+  {
+    "post_id": "easy_060",
+    "content": "Sharing my garage sale flyer again now that I added the address and times.",
+    "author_id": "user_160",
+    "author_history": {
+      "prior_violations": 0,
+      "account_age_days": 285,
+      "follower_count": 312
+    },
+    "context": {
+      "community": "local",
+      "thread_id": "thread_easy_w_060",
+      "language": "en"
+    },
+    "metadata": {
+      "repeated_posts": 2,
+      "contains_links": false,
+      "engagement": {
+        "likes": 8,
+        "reports": 0
+      }
+    },
+    "ground_truth": {
+      "decision": "warn",
+      "violation_type": "spam",
+      "difficulty": "easy"
+    }
+  }
+]
