@@ -1,3 +1,6 @@
+
+# Demo-Projects
+
 # PDF Studio
 
 Local-first PDF editor built with React, `pdf.js`, `pdf-lib`, and `tesseract.js`.
@@ -50,3 +53,7 @@ src/
   hooks/
   lib/
 ```
+<<<<<<< HEAD
+=======
+>>>>>>> bff329e (Added 3 projects)
+>>>>>>> 56e2ea9 (Added all 3 projects)
